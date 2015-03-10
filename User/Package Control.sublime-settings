@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Alignment",
+		"CursorRuler",
+		"Drupal",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"jQuery",
+		"Package Control",
+		"Placeholders",
+		"Preap",
+		"SCSS",
+		"ToDone"
+	]
+}

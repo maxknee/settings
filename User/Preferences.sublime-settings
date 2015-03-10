@@ -1,0 +1,23 @@
+{
+	"color_scheme": "Packages/Preap/Schemes/Preap.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
+	"font_size": 10,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"shift_tab_unindent": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
+}
