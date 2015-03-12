@@ -6,16 +6,26 @@
 	[
 		"Additional PHP Snippets",
 		"Alignment",
+		"Color Highlighter",
+		"CSS3",
 		"CursorRuler",
 		"Drupal",
+		"Drupal Completions",
+		"Drupal Snippets",
 		"Emmet",
+		"Emmet Css Snippets",
 		"HTML-CSS-JS Prettify",
 		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"Package Control",
 		"Placeholders",
-		"Preap",
 		"SCSS",
+		"SCSS Expander",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"Syntax Highlighting for Sass",
+		"Theme - Cobalt2",
 		"ToDone"
 	]
 }

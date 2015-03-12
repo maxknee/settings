@@ -1,0 +1,1 @@
+{"version": "1.0.8", "description": "Simple, hierarchical, prioritized to do lists in plain text", "url": "https://github.com/tiffon/sublime-to-done", "platforms": ["*"], "dependencies": [], "sublime_text": "*"}
